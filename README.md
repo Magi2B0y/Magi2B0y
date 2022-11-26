@@ -4,9 +4,11 @@
   👋  Hey, I'm **MagicBoy**
   <br><br>
   ☘️  Welcome to my profile
+  <br><br>
+  
+  <img src="https://github.com/Magi2B0y/Magi2B0y/blob/main/attachments/cat.png">
 </div>
 
-<img src="https://github.com/Magi2B0y/Magi2B0y/blob/main/attachments/cat.png">
 
 ### 😸 My Contributions
  
