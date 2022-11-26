@@ -6,7 +6,7 @@
   ☘️  Welcome to my profile
 </div>
 
-<img src="https://github.com/Magi2B0y/Magi2B0y/blob/main/attachments/cat.jpg">
+<img src="https://github.com/Magi2B0y/Magi2B0y/blob/main/attachments/cat.png">
 
 ### 😸 My Contributions
  
