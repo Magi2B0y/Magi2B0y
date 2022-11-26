@@ -7,7 +7,7 @@
     <br>
   </samp>
  
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Magi2B0y/Magi2B0y/main/assets/github-contribution-grid-snake.svg" />
 <br>
   
 <div align="center">🍉 Take a look at my stats 😸</div>
