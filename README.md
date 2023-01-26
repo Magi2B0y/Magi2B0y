@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  
-  ### 👋 Hey, I'm MagicBoy. Welcome to my profile
-  <br>
-  
-  <img src="https://github.com/Magi2B0y/Magi2B0y/blob/main/attachments/cat.png">
 </div>
 
+## 👋 Hey, I'm MagicBoy. Welcome to my profile
+  <br>
+  
+<div align="center">
+  <img src="https://github.com/Magi2B0y/Magi2B0y/blob/main/attachments/cat.png">
+</div>
 
 ### 😸 My Contributions
 
@@ -23,4 +24,4 @@
 | ------------- | ------------- |
 </div>
 
-# If my repositories can help you, please click a star⭐ for me. 
+## If my repositories can help you, please click a star⭐ for me. 
