@@ -26,7 +26,8 @@
 
 ## If my repositories can help you, please click a star⭐ for me. 
 
-<p align="left"> 
+<p align="center"> 
+  <br>
   Visitor count
   <br>
   <img src="https://profile-counter.glitch.me/Magi2B0y/count.svg" />
