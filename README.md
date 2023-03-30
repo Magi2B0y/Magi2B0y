@@ -4,10 +4,6 @@
 
 ## 👋 Hey, I'm MagicBoy. Welcome to my profile
   <br>
-  
-<div align="center">
-  <img src="https://github.com/Magi2B0y/Magi2B0y/blob/main/attachments/cat.png">
-</div>
 
 ### 😸 My Contributions
 
