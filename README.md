@@ -14,6 +14,14 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Magi2B0y/Magi2B0y/main/assets/github-contribution-grid-snake.svg" />
 <br>
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Magi2B0y&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+<br>
 </div>
 
 ### 🍉 Take a look at my stats
