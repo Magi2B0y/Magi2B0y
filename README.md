@@ -8,7 +8,7 @@
 ## 😸 My Contributions
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Magi2B0y/Magi2B0y/main/assets/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Magi2B0y/main/assets/github-contribution-grid-snake.svg" />
 <br>
 
 ## 🍉 Take a look at my stats
