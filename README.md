@@ -2,15 +2,6 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </div>
 
-# 👋 Hey, I'm MagicBoy. Welcome to my profile
-  <br>
-
-## 😸 My Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Magi2B0y/Magi2B0y/main/assets/github-contribution-grid-snake.svg" />
-<br>
-
 ## 🍉 Take a look at my stats
 
 <div align="center" width="100%">
